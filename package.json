@@ -47,8 +47,8 @@
     "passport-twitter": "1.0.4",
     "request": "2.84.0",
 
-    "soajs": "2.3.0",
-    "soajs.urac.driver": "1.3.0",
+    "soajs": "git://github.com/mikehajj/soajs.git",
+    "soajs.urac.driver": "git://github.com/mikehajj/soajs.urac.driver.git",
 
     "uuid": "3.0.1"
   }
