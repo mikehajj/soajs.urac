@@ -60,7 +60,7 @@ module.exports = {
 	"session": false,
 	"model": 'mongo',
 	
-	"cmd": ["/etc/init.d/postfix start"],
+	//"cmd": ["/etc/init.d/postfix start"],
 	
 	"maxStringLimit": 30,
 	"errors": {
